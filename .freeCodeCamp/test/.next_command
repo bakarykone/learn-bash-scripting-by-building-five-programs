@@ -43,3 +43,4 @@ echo ~~ Questionnaire ~~
 __vsc_prompt_cmd_original
 ./questionnaire.sh
 echo --help
+man echo
