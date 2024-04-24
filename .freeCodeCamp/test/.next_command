@@ -307,3 +307,6 @@ echo ${ARR[@]}
 declare -p
 declare -a
 declare -p ARR
+declare -p $ARR
+declare -p ${ARR[@]}
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
