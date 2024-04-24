@@ -151,3 +151,4 @@ bac_command
 bad_command
 bad_command
 bad_command
+ls --color=auto
