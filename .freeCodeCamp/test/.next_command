@@ -213,3 +213,6 @@ printenv
 echo LANG
 echo $LANG
 declare -p
+echo $random
+$?
+echo $RANDOM
