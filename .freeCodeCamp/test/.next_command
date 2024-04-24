@@ -133,3 +133,4 @@ help if
 ./countdown.sh arg0 arg2 arg3
 ./countdown.sh 4 arg2 arg3
 ./countdown.sh 5 arg2 arg3
+help
