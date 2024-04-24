@@ -304,3 +304,6 @@ echo ${ARR[1]}
 echo $@
 echo $*
 echo ${ARR[@]}
+declare -p
+declare -a
+declare -p ARR
