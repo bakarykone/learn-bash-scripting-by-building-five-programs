@@ -216,3 +216,5 @@ declare -p
 echo $random
 $?
 echo $RANDOM
+./bingo.sh
+./bingo.sh
